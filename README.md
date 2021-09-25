@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kopano Mabusela
-- 👀 I 
+- 👀 I'm excited to get my foot in the industry and be working with teams, building projectsand solving real life problems
 - 🌱 I’m currently learning JavaScript and would like to be one ...
 - 💞️ I’m looking to collaborate on cool apps I too can take something from and learn
 - 📫 mabuselakopano@gmail.com
